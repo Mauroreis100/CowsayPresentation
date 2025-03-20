@@ -1,5 +1,5 @@
 # CowsayPresentation
-Had the chance to present some of my projects for middle and high schoolers as part of marketing for my university
+Had the chance to present some of my projects for middle and high schoolers as part of a marketing strategy for my university
 
 # Projects Presented:
 Frog vs Chip - https://scratch.mit.edu/projects/800708237/
