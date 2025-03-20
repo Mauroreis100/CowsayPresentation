@@ -4,7 +4,7 @@ Had the chance to present some of my projects for middle and high schoolers as p
 # Projects Presented:
 [Frog vs Chip](https://scratch.mit.edu/projects/800708237/) - https://scratch.mit.edu/projects/800708237/
 
-LECCAirlines(https://www.agency.mktech.co.mz/) - https://www.agency.mktech.co.mz/
+[LECCAirlines](https://www.agency.mktech.co.mz/) - https://www.agency.mktech.co.mz/
 
 [Animation](https://youtu.be/c6AhWe4NXPk) - https://youtu.be/c6AhWe4NXPk
 
