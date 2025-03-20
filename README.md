@@ -13,8 +13,8 @@ Had the chance to present some of my projects for middle and high schoolers as p
 
 
 ## Catch me on:
-LinkedIn: https://www.linkedin.com/in/mauro-mahassa/
+[LinkedIn](https://www.linkedin.com/in/mauro-mahassa/): https://www.linkedin.com/in/mauro-mahassa/
 
-Email: mauromahassa@gmail.com
+[Email](mailto:mauromahassa@gmail.com): mauromahassa@gmail.com
 
 
