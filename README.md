@@ -35,7 +35,6 @@ This will install the dependencies required to run all the programs
 Run helloWorld.py and have fun. :)
 
 # Screenshots
-
-
+![image](https://github.com/user-attachments/assets/949f167e-749f-4619-8759-84de1636d79b)
 
 
