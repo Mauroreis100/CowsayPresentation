@@ -25,6 +25,11 @@ After cloning the project inside the folder type on the command line:
 ```
 pip install -r requirements.txt
 ```
+
+If you are on a Debian based distro try typing in command line before running (See what it does)
+```
+sudo xhost +
+```
 This will install the dependencies required to run all the programs
 
 Run helloWorld.py and have fun. :)

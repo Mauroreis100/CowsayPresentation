@@ -21,7 +21,7 @@ while(chosen!=0):
         time.sleep(5) 
         webbrowser.open('https://scratch.mit.edu/projects/800708237/', new=2)
     case 3:
-        cowsay.cow("#3 a calculator...  \_(ツ)_/¯ to calculate things... ")
+        cowsay.cow("#3 a calculator...  \ _ (ツ) _ / ¯ to calculate things... ")
         time.sleep(5) 
         webbrowser.open('calculator.html', new=2)
     case 4:
@@ -30,7 +30,7 @@ while(chosen!=0):
         webbrowser.open('https://www.agency.mktech.co.mz/', new=2)
     case 5:
         cowsay.cow('#5 Lost and Found!')
-       webbrowser.open('https://youtube.com/shorts/qjx5sKz1u1A?feature=share', new=2)
+        webbrowser.open('https://youtube.com/shorts/qjx5sKz1u1A?feature=share', new=2)
     case 6:
         cowsay.cow('6. Look mom! No Hands!')
         time.sleep(2)
