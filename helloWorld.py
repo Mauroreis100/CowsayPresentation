@@ -30,6 +30,7 @@ while(chosen!=0):
         webbrowser.open('https://www.agency.mktech.co.mz/', new=2)
     case 5:
         cowsay.cow('#5 Lost and Found!')
+       webbrowser.open('https://youtube.com/shorts/qjx5sKz1u1A?feature=share', new=2)
     case 6:
         cowsay.cow('6. Look mom! No Hands!')
         time.sleep(2)
