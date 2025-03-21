@@ -18,3 +18,19 @@ Had the chance to present some of my projects for middle and high schoolers as p
 [Email](mailto:mauromahassa@gmail.com): mauromahassa@gmail.com
 
 
+# For the Techies
+
+## How to run this program?
+After cloning the project inside the folder type on the command line:
+```
+pip install -r requirements.txt
+```
+This will install the dependencies required to run all the programs
+
+Run helloWorld.py and have fun. :)
+
+# Screenshots
+
+
+
+
